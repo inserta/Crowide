@@ -22,3 +22,18 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+### Installation:
+
+#### Install Ruby:
+https://rubyinstaller.org/downloads/
+
+#### Check Ruby version:
+gem --version
+
+#### Install Rails:
+gem install rails
+
+#### Check Rails version:
+rails -v
+
